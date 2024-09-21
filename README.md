@@ -61,7 +61,7 @@ I am the architect of my creative journey, committed to continuous learning, inn
 
 ## License
 
-This project is licensed under the Creative Commons Attribution 4.0 International License.
+This project is licensed under GNU General Public License (GPL).
 
 ---
 
